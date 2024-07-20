@@ -1,0 +1,34 @@
+
+
+
+body{
+    background-image: url('89781.jpg');
+
+    width: 90%;
+    height: 80%;
+    margin: 0;
+    padding: 0;
+}
+div.allDivs{
+    width: 100%;
+
+    overflow:auto;
+
+}
+
+div.allDivs div {
+    height: 300px;
+    width:50%;  
+    float:left;
+
+  }
+
+    div.allDivs div img{
+        width: 400px;
+        height: 400px;
+        padding-left: 40%;
+        
+        
+        
+    }
+
